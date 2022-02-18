@@ -1,0 +1,404 @@
+[
+  {
+    "rad_id": 2663,
+    "rad_impression": "Cholelithiasis, distended gallbladder, and positive sonographic Murphy's sign. Borderline thickening of the gallbladder wall. Findings do raise concern for acute cholecystitis. If clinically warranted, could consider HIDA examination.\n",
+    "path_id": 5420,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER ( CHOLECYSTECTOMY ):\n-   Gallbladder with cholelithiasis and focal acute inflammation\n-   One benign lymph node\n"
+  },
+  {
+    "rad_id": 29662,
+    "rad_impression": "1. Distended sludge filled gallbladder with wall thickening and positive Sonographic Murphy's. Findings are concerning for developing cholecystitis.\n\n2. Medical renal disease.\n",
+    "path_id": 35390,
+    "path_dx": "GALLBLADDER                                                                          \nA. GALLBLADDER, LAPAROSCOPIC CHOLECYSTECTOMY:\n- Mild acute cholecystitis and cholesterolosis\n- No dysplasia or malignancy identified \n"
+  },
+  {
+    "rad_id": 37333,
+    "rad_impression": "1. Cholelithiasis. Mildly thickened gallbladder wall but negative sonographic Murphy's sign and normal hepatic artery velocity. Therefore findings are equivocal though not convincing for acute cholecystitis.\n",
+    "path_id": 39977,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n -   Chronic cholecystitis with cholelithiasis\n"
+  },
+  {
+    "rad_id": 32737,
+    "rad_impression": "1. Cholelithiasis with positive sonographic Murphy sign, gallbladder distention, wall thickening and elevated hepatic artery velocity raise suspicion for acute cholecystitis. \n2. Dilated intrahepatic bile ducts and proximal extrahepatic bile duct.\nIn conjunction with the above findings and the impacted gallstones in the gallbladder neck, raise the possibility of Mirizzi syndrome. Differential\n",
+    "path_id": 42138,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n -   Chronic cholecystitis with cholelithiasis\n"
+  },
+  {
+    "rad_id": 8705,
+    "rad_impression": "1. Diffusely increased echogenicity of the liver, likely related to hepatic steatosis.\n2. Status post cholecystectomy. No fluid collection is visualized.\n",
+    "path_id": 10274,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n -   Chronic cholecystitis with cholelithiasis\n"
+  },
+  {
+    "rad_id": 82963,
+    "rad_impression": "1. Cholelithiasis with stone in the gallbladder neck. Borderline wall thickening, but no additional sonographic signs of acute cholecystitis.\n2. Borderline elevated common hepatic artery velocity, which is nonspecific but can be seen in acute hepatobiliary process.\n",
+    "path_id": 87290,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n-   Acute and chronic cholecystitis with cholelithiasis\n-   Mild cholesterolosis\n"
+  },
+  {
+    "rad_id": 29254,
+    "rad_impression": "1. Hydropic gallbladder with sludge and thickened wall. There is pericholecystic fluid and positive sonographic Murphy's sign, all findings compatible with acute cholecystitis.\n2. Elevated common hepatic artery velocity, nonspecific but can be seen in hepatobiliary infectious/inflammatory processes.\n",
+    "path_id": 39635,
+    "path_dx": "GALLBLADDER, gallbladder                                                             \n\nA. GALLBLADDER (OPEN CHOLECYSTECTOMY):\n -   Acalculous acute and chronic cholecystitis\n"
+  },
+  {
+    "rad_id": 5834,
+    "rad_impression": "1. Findings compatible with hepatic steatosis.\n2. Cholelithiasis with no evidence of cholecystitis.\n",
+    "path_id": 14940,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n -   Chronic cholecystitis with cholelithiasis\n"
+  },
+  {
+    "rad_id": 78611,
+    "rad_impression": "1. Nonmobile 1.4 cm gallstone in the gallbladder neck with associated gallbladder wall thickening, suspicious for acute cholecystitis. However no gallbladder distention or hyperemia to support this. Consider HIDA scan for further evaluation.\n",
+    "path_id": 86133,
+    "path_dx": "GALLBLADDER, gallbladder                                                             \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n-   Chronic cholecystitis with cholelithiasis \n"
+  },
+  {
+    "rad_id": 9164,
+    "rad_impression": "1. Cholelithiasis with an impacted stone in the gallbladder neck. No additional sonographic findings to suggest acute cholecystitis.\n2. Right kidney measuring slightly less than the lower limit of normal for patient age and may be related to technical factors. The kidney is otherwise unremarkable in appearance.\n",
+    "path_id": 19087,
+    "path_dx": "GALLBLADDER, Only the gallbladder goes in formalin.  The gallstones go fresh.        \n\nA. GALLBLADDER, LAPAROSCOPIC CHOLECYSTECTOMY:\n-   Acute cholecystitis and cholelithiasis\n-   Focal reactive epithelial atypia\n"
+  },
+  {
+    "rad_id": 10038,
+    "rad_impression": "1. Cholelithiasis with a stone seen at the gallbladder neck and a stone seen within the gallbladder body, unchanged.\n2. Borderline gallbladder wall thickening noted however no sonographic Murphy sign or evidence of pericholecystic fluid.\n3. Elevated common hepatic artery velocity which is nonspecific and may be in part attributed to technical factors. Elevation of common hepatic artery velocity can be seen with intrinsic hepatic or biliary disease.\n",
+    "path_id": 19087,
+    "path_dx": "GALLBLADDER, Only the gallbladder goes in formalin.  The gallstones go fresh.        \n\nA. GALLBLADDER, LAPAROSCOPIC CHOLECYSTECTOMY:\n-   Acute cholecystitis and cholelithiasis\n-   Focal reactive epithelial atypia\n"
+  },
+  {
+    "rad_id": 12506,
+    "rad_impression": "1. Cholelithiasis without evidence of acute cholecystitis, as detailed.\n\n2. 4 mm gallbladder fundus polyp, previously 2 mm, with differences in measurement likely due to interobserver variation, given short interval.\n\n3. Right renal cyst in the upper pole, with adjacent hyperechoic focus possibly renal sinus fat due to parapelvic cyst. Follow-up ultrasound suggested to ensure stability.\n",
+    "path_id": 18826,
+    "path_dx": "GALLBLADDER, gallbladder                                                             \n\nA. GALLBLADDER, gallbladder (LAPAROSCOPIC CHOLECYSTECTOMY):\n     -   Mild chronic cholecystitis  \n     -   Cholelithiasis\n"
+  },
+  {
+    "rad_id": 44404,
+    "rad_impression": "1. Limited evaluation due to high location of liver under ribs.\n2. Within this limitation, no definite intrahepatic or extrahepatic biliary ductal dilatation. MRCP could be ordered for further evaluation.\n3. Thickened gallbladder wall without gallbladder distention, gallstones or pericholecystic fluid. Negative sonographic Murphy sign. If clinical concern for acute cholecystitis persists, consider nuclear medicine HIDA scan for further evaluation.\n4. Elevation of the common hepatic artery peak systolic velocity, a nonspecific finding which can be seen in the setting of infectious/inflammatory hepatobiliary pathology.\n",
+    "path_id": 55196,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER  ( CHOLECYSTECTOMY ):\n-   Acute cholecystitis\n-   Cholelithiasis \n"
+  },
+  {
+    "rad_id": 56076,
+    "rad_impression": "1. Extensive cholelithiasis with positive sonographic Murphy sign and borderline gallbladder wall thickening/common hepatic artery velocity.\nEarly acute cholecystitis cannot be excluded.\n",
+    "path_id": 58183,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 24234,
+    "rad_impression": "1. Cholelithiasis with gallbladder wall thickening, distention, hyperemia, pericholecystic fluid and positive sonographic Murphy sign. All findings are concerning for acute cholecystitis. \n2. Echogenic liver. This probably represents diffuse hepatic steatosis.\n",
+    "path_id": 29792,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (RESECTION):\n-   Acute cholecystitis and cholelithiasis\n-   No dysplasia or malignancy identified\n"
+  },
+  {
+    "rad_id": 78869,
+    "rad_impression": "1. Nonmobile gallstone in the gallbladder neck with with thickened gallbladder wall and trace pericholecystic fluid. Findings are concerning for acute cholecystitis.\n2. Dilated common bile duct at 1.1 cm.\n3. Increased hepatic echogenicity, consistent with hepatic steatosis.\n",
+    "path_id": 86120,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECOMY):\n-   Acute and chronic cholecystitis with cholelithiasis\n"
+  },
+  {
+    "rad_id": 71370,
+    "rad_impression": "1. Gallstones and sludge with a positive sonographic Murphy's consistent with acute cholecystitis in the proper clinical setting. If\n",
+    "path_id": 74174,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER  ( CHOLECYSTECTOMY ):\n-   Mild chronic cholecystitis\n-   Cholelithiasis \n"
+  },
+  {
+    "rad_id": 67159,
+    "rad_impression": "1. Cholelithiasis without cholecystitis.\n2. Common bile duct within normal limits.\n",
+    "path_id": 73279,
+    "path_dx": "GALLBLADDER, gallbladder and stones                                                  \n\nA. GALLBLADDER ( CHOLECYSTECTOMY ):\n-   Gallbladder with cholelithiasis \n"
+  },
+  {
+    "rad_id": 26801,
+    "rad_impression": "1. Gallbladder wall thickening with cholelithiasis, sludge. Equivocal sonographic Murphy sign. Findings are equivocal for acute cholecystitis.\n2. Hepatomegaly.\n",
+    "path_id": 32574,
+    "path_dx": "GALLBLADDER                                                                          \nA. GALLBLADDER, LAPAROSCOPIC CHOLECYSTECTOMY:\n-   Gangrenous cholecystitis and cholelithiasis\n-   No dysplasia or malignancy identified\n"
+  },
+  {
+    "rad_id": 83006,
+    "rad_impression": "1. Findings concerning for acute cholecystitis.\n2. Mildly dilated common bile duct.\n3. Hepatic steatosis.\n",
+    "path_id": 90564,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n           -   Chronic cholecystitis  \n           -   Cholelithiasis\n"
+  },
+  {
+    "rad_id": 97354,
+    "rad_impression": "1. Cholelithiasis with additional findings concerning for acute cholecystitis.\n\n Attending addendum: I agree with the above preliminary report with the following additional notes/modifications.\n1. Distended gallbladder with stones and sludge within the lumen, gallbladder wall thickening, and positive sonographic Murphy sign. Findings are concerning for acute cholecystitis.\n2. The following structures are not visualized or not well evaluated on the current examination, which is a scan of the right upper quadrant: Left kidney, spleen, and aorta.\n",
+    "path_id": 100948,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Acute and chronic cholecystitis with cholelithiasis \n"
+  },
+  {
+    "rad_id": 84668,
+    "rad_impression": "1. Cholelithiasis with wall thickening and positive sonographic Murphy sign. Findings are suspicious for acute cholecystitis.\n\nAttending addendum: The gallbladder is elongated. Gallbladder wall is thickened, measuring 3-6 mm. Small layering stones and sludge within the gallbladder. Sonographic Murphy sign is positive.\n\nFindings are suspicious for acute cholecystitis.\n",
+    "path_id": 90622,
+    "path_dx": "GALLBLADDER, Gall bladder and contents                                               \n\nA. GALLBLADDER, Gall bladder and contents (LAPAROSCOPIC CHOLECYSTECTOMY):\n           -   Chronic cholecystitis  \n           -   Cholelithiasis\n           -   Cholesterolosis \n"
+  },
+  {
+    "rad_id": 97019,
+    "rad_impression": "1. Cholelithiasis and gallbladder sludge with sonographic evidence suggestive of acute cholecystitis.\n2. Coexistent adenomyomatosis of the gallbladder.\n3. Borderline common bile duct dilation. If there is clinical concern for choledocholithiasis, MRCP could be obtained for further evaluation.\n",
+    "path_id": 102302,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Acute and chronic cholecystitis with cholelithiasis \n"
+  },
+  {
+    "rad_id": 96886,
+    "rad_impression": "1. No acute sonographic abnormality.\n\n2. Cholelithiasis without sonographic evidence of acute cholecystitis.\nSuggested coexistent adenomyomatosis.\n\n3. A subcentimeter echogenic focus in the left hepatic lobe may represent a hemangioma in a patient without known primary malignancy and risk factors for chronic liver disease\n",
+    "path_id": 102306,
+    "path_dx": "GALLBLADDER, Gallbladder and contents                                                \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 106014,
+    "rad_impression": "1. Acute cholecystitis. \n2. Common bile duct measures 11 mm at the pancreatic head. No visualized obstruction.\n3. 0.5 cm hyperechoic lesion at the inferior left lobe, likely a small hemangioma.\n",
+    "path_id": 108777,
+    "path_dx": "GALLBLADDER, gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Gangrenous cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 106421,
+    "rad_impression": "1. Gallbladder filled with gallstones. In setting of a positive sonographic Murphy's sign, this may suggest acute cholecystitis. Consider correlation with laboratory analysis.\n",
+    "path_id": 108775,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER, (cholecystectomy):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 100898,
+    "rad_impression": "1. Common bile duct is mildly dilated up to 8 mm. This is unchanged from the recent prior abdominal ultrasound and MR abdomen.\n2. Cholelithiasis without evidence of acute cholecystitis.\n3. Sonographer reports that patient endorses tenderness to palpation predominantly in the epigastric region.\n",
+    "path_id": 104351,
+    "path_dx": "GALLBLADDER, gallbladder                                                             \n\n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis\n-   One reactive lymph node \n"
+  },
+  {
+    "rad_id": 102478,
+    "rad_impression": "1. Equivocal for acute cholecystitis. There is a stone in the gallbladder neck and the gallbladder is thick-walled, but the gallbladder is not tensely distended and there is a negative sonographic Murphy sign.\nOther processes, including acute alcohol hepatitis can cause this degree of gallbladder wall thickening, and are more consistent with the lack of leukocytosis and the pattern of liver enzyme elevation. If there is ongoing concern for acute cholecystitis, HIDA scan would be reasonable.\n",
+    "path_id": 108772,
+    "path_dx": "GALLBLADDER, GALLBLADDER WITH CONTENTS                                               \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis \n"
+  },
+  {
+    "rad_id": 103326,
+    "rad_impression": "1. Choledocholithiasis with mild intrahepatic and extrahepatic ductal dilatation.\n2. Cholelithiasis without findings of acute cholecystitis.\n\nClinicians are aware of this critical finding.\n",
+    "path_id": 108771,
+    "path_dx": "GALLBLADDER, GALLBLADDER WITH CONTENTS                                               \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 124099,
+    "rad_impression": "1. Cholelithiasis. No findings of acute cholecystitis.\n\n2. 5 mm gallbladder polyp, for which no further workup or follow-up is required.\n\n3. Visualized pancreas is unremarkable.\n",
+    "path_id": 129399,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 105650,
+    "rad_impression": "1. Cholelithiasis without sonographic evidence of acute cholecystitis.\nNegative sonographic Murphy sign.\n2. The common bile duct is dilated along its entire course, measuring up to 0.9 cm in diameter. No choledocholithiasis seen. Given the clinical history of recent improvement in right upper quadrant pain patient may have recently passed a ductal stone. No intrahepatic biliary ductal dilatation or pancreatic ductal dilatation.\n",
+    "path_id": 110996,
+    "path_dx": "GALLBLADDER,  gallbladder with gallstones go fresh.                                  \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n -   Chronic cholecystitis with cholelithiasis\n"
+  },
+  {
+    "rad_id": 127426,
+    "rad_impression": "1. Large immobile gallstone near the neck is likely source of biliary colic. \n2. No evidence of acute cholecystitis.\n",
+    "path_id": 129401,
+    "path_dx": "GALLBLADDER, gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 105085,
+    "rad_impression": "1. Nonmobile gallstones in the gallbladder neck. Pericholecystic fluid and top normal wall thickness, all of which are nonspecific and could be related to the known pancreatitis. Although early acute cholecystitis not excluded, the negative sonographic Murphy's sign would be against acute cholecystitis.\n2. Hepatic steatosis.\n",
+    "path_id": 112617,
+    "path_dx": "GALLBLADDER, gallbladder                                                             \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n -   Chronic cholecystitis with cholelithiasis\n"
+  },
+  {
+    "rad_id": 115166,
+    "rad_impression": "Nonmobile gallstone in the gallbladder neck. Negative sonographic Murphy sign.\n",
+    "path_id": 117934,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER  ( CHOLECYSTECTOMY ):\n-   Chronic cholecystitis\n-   Cholelithiasis \n"
+  },
+  {
+    "rad_id": 109844,
+    "rad_impression": "1. Findings raise suspicious for acute cholecystitis. \n2. Right hepatic lobe hemangioma.\n",
+    "path_id": 116446,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER, ( CHOLECYSTECTOMY ):\n-   Severe acute gangrenous cholecystitis\n-   Cholelithiasis \n"
+  },
+  {
+    "rad_id": 116093,
+    "rad_impression": "1. Cholelithiasis with findings consistent with acute cholecystitis.\n",
+    "path_id": 119822,
+    "path_dx": "GALLBLADDER, gallbladder and gallbladder stone                                       \n\nA. GALLBLADDER ( CHOLECYSTECTOMY ):\n-   Severe acute gangrenous cholecystitis\n-   Cholelithiasis \n"
+  },
+  {
+    "rad_id": 123984,
+    "rad_impression": "1. Cholelithiasis with wall thickening and nonmobile stones in the gallbladder neck. In the setting of nondistended gallbladder, negative sonographic Murphy sign, and lack of leukocytosis, findings are less likely to represent acute cholecystitis.\n2. Diffuse hepatic steatosis.\n",
+    "path_id": 127558,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 133443,
+    "rad_impression": "1. Cholelithiasis without sonographic evidence of acute cholecystitis.\n\n2. Hepatic steatosis.\n",
+    "path_id": 139017,
+    "path_dx": "GALLBLADDER, gallbladder with contents                                               \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Acute and chronic cholecystitis with cholelithiasis \n"
+  },
+  {
+    "rad_id": 122107,
+    "rad_impression": "1. Cholelithiasis. No acute cholecystitis.\n",
+    "path_id": 127560,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 119350,
+    "rad_impression": "1. No definitive findings of acute cholecystitis. No cholelithiasis.\n\n2. No intrahepatic or extrahepatic biliary ductal dilatation.\n\n3. Hepatic steatosis.\n\n4. Nonspecific elevation of the common hepatic artery peak systolic velocity, which can be seen in inflammatory states in the right upper quadrant.\n",
+    "path_id": 127564,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Acute and chronic cholecystitis \n"
+  },
+  {
+    "rad_id": 158487,
+    "rad_impression": "1. Cholelithiasis with positive sonographic Murphy's sign and elevated hepatic artery velocity. Findings are concerning for acute cholecystitis. \n2. Hepatic steatosis with hepatomegaly.\n",
+    "path_id": 161503,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Gangrenous cholecystitis with cholelithiasis \n"
+  },
+  {
+    "rad_id": 152951,
+    "rad_impression": "The gallbladder is identified although small and with irregular contour.\nThis could be an abnormal gallbladder the setting of biliary atresia. A collapsed gallbladder could produce a similar appearance. Inconclusive evaluation of central bile ducts.\n\nOverall, examination raises concern for biliary atresia in the proper clinical setting but is inconclusive. Consider correlation with HIDA scan.\n",
+    "path_id": 161977,
+    "path_dx": "A) - GALLBLADDER, gallbladder and bile duct                                          \n             B) - SOFT TISSUE, Portal Plate                                                       \n             C) - LIVER                                                                           \n\nA. GALLBLADDER, AND BILE DUCT (EXCISION):\n-   Fibrous tissue with scant biliary epithelium, compatible with a atretic gallbladder \n\nB. SOFT TISSUE, PORTAL PLATE (EXCISION):\n-   Fibrosis, chronic inflammation, and small bile ducts, compatible with extrahepatic biliary atresia \n\nC. LIVER,  (BIOPSY):\n-   Findings consistent with large bile duct obstruction (see comment) \n-   Bridging fibrosis\n"
+  },
+  {
+    "rad_id": 157384,
+    "rad_impression": "1. Gallbladder is not well-visualized with dense shadowing seen in the gallbladder fossa. This finding could be secondary to overlying bowel.\nGallstones are definitely seen on the prior however and there could also be a contracted gallbladder packed with stones.. Given the limited visualization and positive sonographic Murphy's sign, would consider further evaluation with CT or HIDA scan depending on level of suspicion clinically.\n",
+    "path_id": 161463,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 140156,
+    "rad_impression": "1. Unchanged appearance status post partial cholecystectomy with stones in the gallbladder remnant.\n",
+    "path_id": 146434,
+    "path_dx": "GALLBLADDER, gallbladder and contents                                                \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Cholelithiasis and hemorrhagic chronic cholecystitis with eosinophilia. \n"
+  },
+  {
+    "rad_id": 147603,
+    "rad_impression": "Acute emphysematous cholecystitis. No definite gallstones seen.\n\n\n-------------------------\n\n1. Findings doubtful for acute cholecystitis. There is positive sonographic Murphy's sign, however no cholelithiasis or pericholecystic fluid and the common bile duct is within normal limits.\n",
+    "path_id": 149694,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Gangrenous gallbladder with hemorrhagic congestion, acute inflammation and abscess formation \n"
+  },
+  {
+    "rad_id": 146925,
+    "rad_impression": "1. Findings are concerning for acute cholecystitis.\n",
+    "path_id": 149700,
+    "path_dx": "GALLBLADDER, Gallbladder and Gallbladder Stones                                      \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Cholelithiasis and gangrenous acute hemorrhagic cholecystitis. \n"
+  },
+  {
+    "rad_id": 143699,
+    "rad_impression": "1. Acute cholecystitis.\n",
+    "path_id": 148158,
+    "path_dx": "GALLBLADDER, gallbladder and content                                                 \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Acute hemorrhagic cholecystitis with eosinophilia. \n"
+  },
+  {
+    "rad_id": 144501,
+    "rad_impression": "1. Distended gallbladder with stone at the neck. Taking in conjunction with elevated common hepatic artery velocity, concerning for developing cholecystitis, however no evidence of gallbladder wall thickening or sonographic Murphy's sign at the time of imaging.\n2. Dilated intrahepatic biliary ducts of uncertain etiology. Correlate with studies, if available. Cannot exclude more distal obstructing stone.\n",
+    "path_id": 148165,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Cholelithiasis and hemorrhagic cholecystitis with eosinophilia. \n"
+  },
+  {
+    "rad_id": 164823,
+    "rad_impression": "1. Cholelithiasis with thickened gallbladder wall. Cannot exclude cholecystitis. Consider HIDA scan.\n",
+    "path_id": 167847,
+    "path_dx": "GALLBLADDER, Gallbladder and Stones                                                  \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n -   Acute and chronic cholecystitis with cholelithiasis\n -   Cholesterolosis\n"
+  },
+  {
+    "rad_id": 145373,
+    "rad_impression": "1. Cholelithiasis without evidence of cholecystitis.\n2. No biliary dilatation.\n",
+    "path_id": 148141,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Cholelithiasis and chronic cholecystitis. \n"
+  },
+  {
+    "rad_id": 160834,
+    "rad_impression": "1. Cholelithiasis without additional findings of acute cholecystitis.\n\n\nOf note, full interpretation of this diagnostic study is limited, as there is no clinical information available at the time of this dictation. This includes clinical notes, laboratory values, and additional history as well as outside institution health data in the instance of transfer for higher level of care.\n",
+    "path_id": 167823,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER (LAPAROSCOPIC CHOLECYSTECTOMY):\n -   Chronic cholecystitis with cholelithiasis\n"
+  },
+  {
+    "rad_id": 150381,
+    "rad_impression": "1. Sonographic findings of gallstones, mild gallbladder distention, and positive Murphy's sign are suspicious for acute cholecystitis but are not definitive given the lack of gallbladder wall thickening. May consider HIDA scan for further evaluation if clinically indicated.\n",
+    "path_id": 158082,
+    "path_dx": "GALLBLADDER, gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Gangrenous cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 152204,
+    "rad_impression": "1. Cholelithiasis and extensive gallbladder sludge with wall thickening and positive sonographic Murphy's sign, suspicious for acute cholecystitis in the appropriate clinical setting.\n",
+    "path_id": 158089,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 153319,
+    "rad_impression": "1. The gallbladder is packed with gallstones. Absent sonographic Murphy's sign and no additional findings to suggest acute cholecystitis.\n2. Dilated common bile duct and central intrahepatic bile ducts, which may suggest choledocholithiasis (not visualized) or other source of distal biliary obstruction.\n3. Borderline hepatic steatosis.\n",
+    "path_id": 159695,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Acute and chronic cholecystitis with cholelithiasis \n"
+  },
+  {
+    "rad_id": 153398,
+    "rad_impression": "1. Layering cholelithiasis in the setting of a positive sonographic Murphy's sign has high positive predictive value for acute cholecystitis.\nAdditionally, mildly dilated common bile duct (8 mm), which may suggest choledocholithiasis.\n2. Mildly elevated common hepatic artery velocity, which can be present in acute hepatobiliary or pancreatic process.\n",
+    "path_id": 158078,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis, cholesterolosis, and cholelithiasis \n"
+  },
+  {
+    "rad_id": 162601,
+    "rad_impression": "1. Cholelithiasis with a nonmobile stone at the gallbladder neck and mild gallbladder distention. The setting of right upper quadrant pain and sonographic findings, findings may indicate developing/impending cholecystitis or biliary colic. Correlate clinically. HIDA scan can be performed, if clinically indicated.\n2. Hepatic steatosis.\n",
+    "path_id": 167960,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER (OPEN CHOLECYSTECTOMY):\n -   Acute and chronic cholecystitis with cholelithiasis\n"
+  },
+  {
+    "rad_id": 200954,
+    "rad_impression": "Cholelithiasis without secondary signs of cholecystitis.\n",
+    "path_id": 205478,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER  ( CHOLECYSTECTOMY ):\n-   Chronic cholecystitis \n-   Cholelithiasis\n"
+  },
+  {
+    "rad_id": 183419,
+    "rad_impression": "1. Obstructing stone within the gallbladder neck, however secondary findings are equivocal: Borderline gallbladder thickening. No pericholecystic fluid. Negative sonographic Murphy sign. Consider further evaluation with hepatobiliary scan, clinically indicated. Alternative consideration includes intermittent biliary colic.\n",
+    "path_id": 200422,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 204942,
+    "rad_impression": "1. Cholelithiasis. No cholecystitis.\n2. Significantly elevated common hepatic artery velocity is concerning for acute or impending hepatopathy. Recommend close clinical observation with surveillance of liver function tests.\n",
+    "path_id": 212649,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 172119,
+    "rad_impression": "1. Cholelithiasis without findings of acute cholecystitis.\n\n2. Borderline intrahepatic and extrahepatic biliary ductal dilatation.\nNo common bile duct stone is visualized by ultrasound.\n",
+    "path_id": 176221,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 202238,
+    "rad_impression": "1. Gallbladder sludge without definite evidence of acute cholecystitis.\nIn the setting of leukocytosis and elevated common hepatic artery velocity, HIDA scan could be obtained to further evaluate if there is persistent high clinical suspicion. Also see follow-up CT for detailed evaluation in the abdomen.\n2. Diffuse hepatic steatosis and hepatomegaly.\n",
+    "path_id": 208503,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER  ( CHOLECYSTECTOMY ):\n-   Acute cholecystitis\n-   Hepatic bed with mild steatosis (macrovesicular)\n"
+  },
+  {
+    "rad_id": 204692,
+    "rad_impression": "1. Findings suspicious for early/developing acute cholecystitis.\nCorrelate clinically.\n2. Hepatic steatosis.\n",
+    "path_id": 211062,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis and cholelithiasis \n"
+  },
+  {
+    "rad_id": 186868,
+    "rad_impression": "1. Cholelithiasis, but not acute cholecystitis. Consider symptomatic cholelithiasis/biliary colic.\n2. Hepatic steatosis.\n",
+    "path_id": 190829,
+    "path_dx": "GALLBLADDER, gallbladder                                                             \n\nA. GALLBLADDER ( CHOLECYSTECTOMY ):\n-   Chronic cholecystitis\n-   Cholelithiasis \n"
+  },
+  {
+    "rad_id": 198076,
+    "rad_impression": "1. Cholelithiasis. No evidence of acute cholecystitis.\n2. Multiple subcentimeter hyperechoic lesions within the right kidney, likely renal angiomyolipomas.\n",
+    "path_id": 205469,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  ( CHOLECYSTECTOMY ):\n-   Acute and chronic cholecystitis \n-   Cholelithiasis \n-   Cholesterolosis\n-   One benign lymph node (0/1)\n"
+  },
+  {
+    "rad_id": 194807,
+    "rad_impression": "1. Cholelithiasis. Edematous gallbladder wall thickening is suggestive of relatively acute cholecystitis although no gallbladder distention or sonographic Murphy's sign is elicited. Clinical correlation is recommended.\n2. Increased liver parenchymal echogenicity suggests of hepatic steatosis or underlying chronic hepatocellular disease.\n",
+    "path_id": 197463,
+    "path_dx": "GALLBLADDER, Gallbladder and contents                                                \n\n\nA. GALLBLADDER, (CHOLECYSTECTOMY):\n-   Chronic cholecystitis, cholelithiasis, and cholesterolosis \n"
+  },
+  {
+    "rad_id": 209858,
+    "rad_impression": "1. Acute uncomplicated cholecystitis.\n2. Diffuse hepatic steatosis.\n",
+    "path_id": 212627,
+    "path_dx": "GALLBLADDER                                                                          \n\nA. GALLBLADDER,  (CHOLECYSTECTOMY):\n-   Gangrenous cholecystitis \n"
+  },
+  {
+    "rad_id": 215238,
+    "rad_impression": "1. Cholelithiasis without cholecystitis.\n2. Mild elevation of the common hepatic artery velocity, nonspecific but can be seen in hepatobiliary inflammation.\n",
+    "path_id": 220602,
+    "path_dx": "GALLBLADDER, Gallbladder                                                             \n\nA. GALLBLADDER( CHOLECYSTECTOMY ):\n-   Cholelithiasis with chronic cholecystitis \n"
+  }
+]
